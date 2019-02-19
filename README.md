@@ -1,5 +1,4 @@
 # Kubernetes and Helm Resources for WSO2 API Manager
-*Kubernetes and Helm Resources for container-based deployments of WSO2 API Manager deployment patterns*
 
 ## Deploy Kubernetes resources
 
