@@ -1,6 +1,6 @@
 # Kubernetes and Helm Resources for WSO2 API Manager
 
-## Deploy Kubernetes resources
+## Deploy Kubernetes resources 
 
 In order to deploy Kubernetes resources for each deployment pattern, follow the **Quick Start Guide**s for each deployment pattern
 given below:
